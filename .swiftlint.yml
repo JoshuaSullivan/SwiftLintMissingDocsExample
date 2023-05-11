@@ -1,0 +1,10 @@
+
+opt_in_rules:
+- missing_docs
+- force_unwrapping
+
+missing_docs:
+  severity: error
+
+force_unwrapping:
+  severity: error
